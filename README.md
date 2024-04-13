@@ -2,7 +2,9 @@
 Багавиев Булат / БПИ2310
 Вариант 19
 
-Ссылка на бота: https://t.me/controlHomeworkBagavievBulatBot
+ТЗ: https://github.com/sunnyyssh/MoscowLibrariesTelegramBot/blob/master/ТЗ.pdf
+
+Ссылка на бота (возможно хостинг уже не оплачен): https://t.me/controlHomeworkBagavievBulatBot 
 
 - Сценарий общения с ботом задается реализациями ITick<TData>
 - Api токен лежит в файле выходной директории (если не лежит, то в консоли будет запрошен путь к файлу с api).
